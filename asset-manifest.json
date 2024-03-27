@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/foodservice-landing-page-frontend/static/css/main.42300d1c.css",
+    "main.js": "/foodservice-landing-page-frontend/static/js/main.b85fe67c.js",
+    "static/media/home-banner-image.png": "/foodservice-landing-page-frontend/static/media/home-banner-image.a41849b23e5c36d66717.png",
+    "static/media/about-background-image.png": "/foodservice-landing-page-frontend/static/media/about-background-image.d0e45280dd69dec26ee6.png",
+    "static/media/home-banner-background.png": "/foodservice-landing-page-frontend/static/media/home-banner-background.585600da7ff85661555e.png",
+    "static/media/Logo.svg": "/foodservice-landing-page-frontend/static/media/Logo.e04f4319ea0059a833b1ca8d03810b60.svg",
+    "index.html": "/foodservice-landing-page-frontend/index.html",
+    "main.42300d1c.css.map": "/foodservice-landing-page-frontend/static/css/main.42300d1c.css.map",
+    "main.b85fe67c.js.map": "/foodservice-landing-page-frontend/static/js/main.b85fe67c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42300d1c.css",
+    "static/js/main.b85fe67c.js"
+  ]
+}
